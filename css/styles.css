@@ -154,7 +154,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;/*LOS ENLACES TOMAN TODO EL ANCHO DISPONIBLE*/
+    width: 100%;
     margin-top: 1rem;
 }
 
@@ -167,7 +167,7 @@ img {
 .navegacion a {
     padding: .5rem;
     transition: background-color 300ms;
-    width: 100%;/*LOS ENLACES TOMAN TODO EL ANCHO DISPONIBLE*/
+    width: 100%;
     text-align: center;
 }
 
